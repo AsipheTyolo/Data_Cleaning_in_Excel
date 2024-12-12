@@ -108,10 +108,7 @@ Welcome to the **BetXchange Project** repository! This project involves cleaning
 
 ## How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/betxchange-project.git
-   ```
+1. Clone the repository
 2. Navigate to the folder containing datasets.
 3. Follow the outlined steps to replicate or analyze the data.
 
